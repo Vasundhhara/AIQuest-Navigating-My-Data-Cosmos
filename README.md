@@ -5,6 +5,21 @@ The term "Navigating My Data Cosmos" captures the essence of a voyage that bring
 
 ## Colab Notebook
 
-Check out our [Colab Notebook](https://github.com/Vasundhhara/AIQuest-Navigating-My-Data-Cosmos/blob/main/semantic_search_engine.ipynb) for a step-by-step guide on how to build and explore your AIQuest engine.
+Check out the [Colab Notebook](https://github.com/Vasundhhara/AIQuest-Navigating-My-Data-Cosmos/blob/main/semantic_search_engine.ipynb) for a step-by-step guide on how to build and explore your AIQuest engine.
 
+## API Endpoints
 
+1. Backend API: Launch the backend API for querying specific data using `index.js`and test the api on [Postman](https://www.postman.com/) in the following example format:
+   http://localhost:3000/getByDirectionAndDate?direction=OUTGOING&date=8/4/23
+   http://localhost:3000/getByFistName?firstName=name
+
+## Design Document
+Check out the [design document](https://github.com/Vasundhhara/AIQuest-Navigating-My-Data-Cosmos/blob/main/design_document.pdf) for detailed code explanation.
+
+## Resources
+Once you have the raw text, follow the [docs from OpenAI] (https://platform.openai.com/docs/guides/embeddings/what-are-embeddings) to make an embeddings column in the csv.
+Use the [Pinecone documentation](https://docs.pinecone.io/) to get help on upserting data.
+
+## Contact
+
+For any inquiries or feedback, please connect with me on linkedIn at `https://www.linkedin.com/in/vasundhhara-katoch-a72299169/`
