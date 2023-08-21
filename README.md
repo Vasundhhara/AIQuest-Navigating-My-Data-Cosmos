@@ -10,8 +10,9 @@ Check out the [Colab Notebook](https://github.com/Vasundhhara/AIQuest-Navigating
 ## API Endpoints
 
 1. Backend API: Launch the backend API for querying specific data using `index.js`and test the api on [Postman](https://www.postman.com/) in the following example format:
-   http://localhost:3000/getByDirectionAndDate?direction=OUTGOING&date=8/4/23
-   http://localhost:3000/getByFistName?firstName=name
+   'http://localhost:3000/getByDirectionAndDate?direction=OUTGOING&date=8/4/23'
+   
+   'http://localhost:3000/getByFistName?firstName=name'
 
 ## Design Document
 Check out the [design document](https://github.com/Vasundhhara/AIQuest-Navigating-My-Data-Cosmos/blob/main/design_document.pdf) for detailed code explanation.
