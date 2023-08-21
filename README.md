@@ -1,1 +1,1 @@
-# semantic-search-engine
+# AIQuest: Navigating My Data Cosmos
