@@ -13,6 +13,8 @@ Check out the [Colab Notebook](https://github.com/Vasundhhara/AIQuest-Navigating
    
    `http://localhost:3000/getByDirectionAndDate?direction=OUTGOING&date=8/4/23`
    
+   'http://localhost:3000/getByDirectionAndDate?direction=OUTGOING&date=8/4/23'
+   
    `http://localhost:3000/getByFistName?firstName=name`
 
 ## Design Document
