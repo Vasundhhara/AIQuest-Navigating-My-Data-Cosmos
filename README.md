@@ -28,4 +28,4 @@ Use the [Pinecone documentation](https://docs.pinecone.io/) to get help on upser
 
 ## Contact
 
-For any inquiries or feedback, please connect with me on linkedIn: https://www.linkedin.com/in/vasundhhara-katoch-a72299169/
+For any inquiries, contributions or feedback, please connect with me on linkedIn: https://www.linkedin.com/in/vasundhhara-katoch-a72299169/
