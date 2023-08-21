@@ -5,6 +5,6 @@ The term "Navigating My Data Cosmos" captures the essence of a voyage that bring
 
 ## Colab Notebook
 
-Check out our [Colab Notebook](link-to-your-colab-notebook) for a step-by-step guide on how to build and explore your AIQuest engine.
+Check out our [Colab Notebook]([link-to-your-colab-notebook](https://github.com/Vasundhhara/AIQuest-Navigating-My-Data-Cosmos/blob/main/semantic_search_engine.ipynb)https://github.com/Vasundhhara/AIQuest-Navigating-My-Data-Cosmos/blob/main/semantic_search_engine.ipynb) for a step-by-step guide on how to build and explore your AIQuest engine.
 
 
